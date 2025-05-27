@@ -1,10 +1,10 @@
 # python-project
 Student Performance Analysis
-This project analyzes a dataset (student_scores.csv) sourced from Kaggle, containing demographic and academic performance data of students. The goal is to explore relationships between background factors and scores in Math, Reading, and Writing.
+This project analyzes a dataset (student_scores.csv) sourced from Kaggle containing demographic and academic performance data of students. The goal is to explore relationships between background factors and scores in Math, Reading, and Writing.
 
 📁 Dataset Overview
 Filename: student_scores.csv
-Source: Kaggle 
+Source: Kaggle ( https://www.kaggle.com/datasets/desalegngeb/students-exam-scores )
 
 🔍 Project Goals
 Analyze correlations between demographics and academic performance.
